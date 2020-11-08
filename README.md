@@ -1,6 +1,8 @@
-# primeiro_projeto
+# contador_pessoas
 
 A new Flutter application.
+
+Primeiro projeto do curso https://www.udemy.com/course/curso-completo-flutter-app-android-ios/
 
 ## Getting Started
 
